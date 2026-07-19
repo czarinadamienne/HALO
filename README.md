@@ -38,13 +38,8 @@ This folder contains *Testing_NibblesVer* and *HANDWRITTEN_NIBBLESVER_ADDITIONAL
 To compile the assembly and C files, use the following commands (example shown for the byte-aligned version):
 
 ```bash
-# Assemble the source
 nasm -f elf64 byte_aligned_test.asm -o byte_aligned_test.o
-
-# Compile the C wrapper
 gcc -c byte_aligned_test.c -o byte_aligned_test_c.o -mavx512f -mavx512bw
-
-# Link the objects
 gcc byte_aligned_test.o byte_aligned_test_c.o -o byte_aligned -mavx512f -mavx512bw
 
 ```
