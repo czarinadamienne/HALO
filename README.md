@@ -12,10 +12,6 @@ This folder contains *Testing-ByteAligned* and *Testing-FullyAligned-Additional*
 **Metrics tracked include:**
 * Number of similar and dissimilar sequences.
 * Execution time.
-* Throughput (cycles/read and cycles/base).
-* Average cycles per function.
-* Instruction count and IPC (Instructions Per Cycle).
-* Branch and cache misses.
 
 ---
 
@@ -25,10 +21,6 @@ This folder contains *Testing_NibblesVer* and *HANDWRITTEN_NIBBLESVER_ADDITIONAL
 **Metrics tracked include:**
 * Number of similar and dissimilar sequences.
 * Execution time.
-* Throughput (cycles/read and cycles/base).
-* Average cycles per function.
-* Instruction count and IPC (Instructions Per Cycle).
-* Branch and cache misses.
 
 ---
 
