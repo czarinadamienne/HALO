@@ -16,7 +16,7 @@ This folder contains *Testing-ByteAligned*, which contains the byte-aligned hand
 ---
 
 ## 3. Nibble-aligned Handwritten
-This folder contains *Testing_NibblesVer*, which contains the nibble-aligned handwritten AVX-512 implementation.
+This folder contains *HALO- Nibble-Align Handwritten AVX-512*, which contains the nibble-aligned handwritten AVX-512 implementation.
 
 **Metrics tracked include:**
 * Number of similar and dissimilar sequences.
