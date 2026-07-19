@@ -1,4 +1,4 @@
-# HALO
+# HALO: Accelerating the SneakySnake DNA Pre-Alignment Algorithm with AVX-512 Assembly
 Handwritten AVX-512 Implementations of SneakySnake Pre-Alignment Filter
 
 ## 1. Overview
