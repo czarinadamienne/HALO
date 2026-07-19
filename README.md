@@ -58,4 +58,4 @@ Run the executable using the following syntax:
 * **Pre-computed Results:** For convenience, several test cases have already been executed within the provided notebook. You can verify these recorded performance metrics by referencing the [Excel link](https://docs.google.com/spreadsheets/d/1N6rS9DcO2w-w125h6w7prfowPQLwNy5LJp_1nJ99RWw/edit?gid=2008330343#gid=2008330343) to cross-reference the output data.
 
 ## 5. Datasets
-This repository also contains some datasets that were used for testing both implementations. As the original dataset is too large to be uploaded, smaller versions of the datasets are included. The genomic datasets are *E.coli K-12* and *Drosophila melanogaster*, both have basepair lengths of 100bp and 10kbp. 
+This repository also contains some datasets that were used for testing both implementations. As the original dataset is too large to be uploaded, smaller versions of the datasets are included. The genomic datasets are *E.coli K-12* and *Drosophila melanogaster*, both have basepair lengths of 100bp.
