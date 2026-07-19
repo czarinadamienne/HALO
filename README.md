@@ -7,7 +7,7 @@ This repository contains the handwritten AVX-512 implementations of the SneakySn
 ---
 
 ## 2. Byte-aligned Handwritten
-This folder contains *Testing-ByteAligned* and *Testing-FullyAligned-Additional*, which contains the byte-aligned handwritten AVX-512 implementation. 
+This folder contains *Testing-ByteAligned*, which contains the byte-aligned handwritten AVX-512 implementation. 
 
 **Metrics tracked include:**
 * Number of similar and dissimilar sequences.
@@ -16,7 +16,7 @@ This folder contains *Testing-ByteAligned* and *Testing-FullyAligned-Additional*
 ---
 
 ## 3. Nibble-aligned Handwritten
-This folder contains *Testing_NibblesVer* and *HANDWRITTEN_NIBBLESVER_ADDITIONALTEST*, which contains the nibble-aligned handwritten AVX-512 implementation.
+This folder contains *Testing_NibblesVer*, which contains the nibble-aligned handwritten AVX-512 implementation.
 
 **Metrics tracked include:**
 * Number of similar and dissimilar sequences.
